@@ -1,5 +1,5 @@
 
-- The code for this article will be uploaded here shortly -
+The code for this article will be uploaded here shortly 
 
 # Self-training function with logistic regression or ridge regression 
 
